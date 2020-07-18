@@ -1,0 +1,3 @@
+For our system, we have included many videos and images into our system, so the size is very large.
+The compressed folder for our system was sized 1.7GB ++ so we can't insert it into github
+Which have the maximum size for one folder with the size 25MB.
